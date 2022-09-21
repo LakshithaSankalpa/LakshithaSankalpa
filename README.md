@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 <h2 align="center"> 📊 Github stats  </h2> 
 <p align="center">
 <a href="https://github.com/LakshithaSankalpa/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshithaSankalpa&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="LakshithaSankalpa :: Top Langs" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshithaSankalpa&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LakshithaSankalpa :: Top Langs" />
+  </a>
   </p>
 <p align="center">
 <a href="https://github.com/LakshithaSankalpa/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=gruvbox&hide_border=true" />
+<!-- <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&count_private=true&theme=algolia" height="192px"/> -->
+<img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=algolia" alt="LakshithaSankalpa" />
 </a>
   </p>
-      
-  
+<br/>
+<h2 align="center"> 📊 Github Trophy  </h2> 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LakshithaSankalpa" alt="LakshithaSankalpa" />
+</p>
+<br/>
 <h2 align="center">📊 latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LakshithaSankalpa's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=LakshithaSankalpa&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
