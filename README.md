@@ -15,28 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
+<h2 align="center"> 📊 Github stats  </h2> 
+<p align="center">
+<a href="https://github.com/LakshithaSankalpa/">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshithaSankalpa&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="LakshithaSankalpa :: Top Langs" /></a>
+  </p>
+<p align="center">
+<a href="https://github.com/LakshithaSankalpa/">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=gruvbox&hide_border=true" />
+</a>
+  </p>
+      
+  
+<h2 align="center">📊 latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LakshithaSankalpa's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=LakshithaSankalpa&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
