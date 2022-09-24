@@ -8,8 +8,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<p align="center"> ![1f525](https://user-images.githubusercontent.com/88105335/192090265-b4bfdcd7-96ab-4684-896f-757bee665355.png)
-
+<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=LakshithaSankalpa&label=Profile%20views&color=0e75b6&style=plastic" alt="LakshithaSankalpa" /> 
 </p>
 
