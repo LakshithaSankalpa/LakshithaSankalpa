@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h2 align="center"> 📊 Github stats  </h2> 
 <p align="center">
 <a href="https://github.com/LakshithaSankalpa/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshithaSankalpa&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LakshithaSankalpa :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshithaSankalpa&langs_count=12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LakshithaSankalpa :: Top Langs" height="auto" width="full"/>
   </a>
   </p>
 <p align="center">
 <a href="https://github.com/LakshithaSankalpa/">
-<!-- <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&count_private=true&theme=algolia" height="192px"/> -->
-    <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=algolia" alt="LakshithaSankalpa" />
+<!-- <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&count_private=true&theme=algolia" height="150px"/> -->
+    <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=algolia" alt="LakshithaSankalpa" width="180px"/>
 </a>
   </p>
 <br/>
