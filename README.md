@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/LakshithaSankalpa/">
 <!-- <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LakshithaSankalpa&show_icons=true&count_private=true&theme=algolia" height="150px"/> -->
-    <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="350px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=algolia" alt="LakshithaSankalpa" width="350px"/>
+    <img alt="LakshithaSankalpa's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakshithaSankalpa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshithaSankalpa&theme=algolia" alt="LakshithaSankalpa" width="400px"/>
 </a>
   </p>
 <br/>
