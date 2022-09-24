@@ -8,7 +8,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<p align="center"> 
+<p align="center"> ![1f525](https://user-images.githubusercontent.com/88105335/192090265-b4bfdcd7-96ab-4684-896f-757bee665355.png)
+
 	<img src="https://komarev.com/ghpvc/?username=LakshithaSankalpa&label=Profile%20views&color=0e75b6&style=plastic" alt="LakshithaSankalpa" /> 
 </p>
 
@@ -31,11 +32,13 @@
 - 📫 How to reach me **lakshithasankalpa356@gmail.com**
 
 - 📄 Know about my experiences Resume
-<!-- - <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/> -->
+
+<p align="center" >❤️</p>
+<br/>
+
+<p align="center">
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝  </h2> 
-<p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lakshitha-sankalpa-17114b184/">
