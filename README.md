@@ -83,6 +83,6 @@
 <br/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
 <p align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LakshithaSankalpaa&layout=compact&theme=algolia" alt="LakshithaSankalpa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LakshithaSankalpa&layout=compact&theme=algolia" alt="LakshithaSankalpa" /></a> </p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LakshithaSankalpa's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=LakshithaSankalpa&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
