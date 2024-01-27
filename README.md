@@ -85,5 +85,5 @@
 <br/>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> latest contribution </h2>
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LakshithaSankalpa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshithaSankalpa&theme=dracula" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LakshithaSankalpa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshithaSankalpa&theme=github-compact" /></a>
 
