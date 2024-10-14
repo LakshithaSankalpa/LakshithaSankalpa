@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <a href="https://LakshithaSankalpa.github.io/LakshithaSankalpa/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <p align="center">
@@ -17,13 +17,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://axcertro.com/" target="blank">Axcertro (Pvt) Ltd</a>
+- 🔭 I’m currently working in <a href="https://www.enricharcane.com" target="blank">Enrich Arcane (Pvt) Ltd</a>
 
 - 🌱 I’m currently Working on Full-Stack Application
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Next,Vue,Nuxt && React
+- 🌱 I’m currently learning Next,Vue,Nuxt,React and more
 
 <!-- - 💬 Ask me about **Anything** -->
 
@@ -39,7 +39,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝  </h2>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lakshitha-sankalpa-17114b184/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lakshithasankalpa">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/LakshithaSankalpa">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
